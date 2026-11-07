@@ -1,4 +1,4 @@
-# 100 Days of Cloud - Day 1: Create an EC2 Key Pair
+# Day 1: Create an EC2 Key Pair
  
 ## Scenario
 The Nautilus DevOps team is planning to migrate part of their infrastructure to the AWS cloud. Because of the scale of the project, they are taking an incremental approach: large tasks are broken into smaller, manageable units. This allows gradual phases, smoother implementation, better control, risk mitigation, and minimal disruption to operations.
